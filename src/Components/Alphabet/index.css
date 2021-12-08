@@ -1,0 +1,16 @@
+.letter {
+  font-family: "Roboto";
+  font-size: 22px;
+  font-weight: 500;
+  color: black;
+  background-color: transparent;
+  border-width: 0px;
+}
+.li-letter {
+  padding: 5px;
+  margin: 5px;
+}
+.active-btn {
+  text-decoration: underline;
+  color: blueviolet;
+}
